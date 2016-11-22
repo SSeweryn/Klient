@@ -1,1 +1,1 @@
-main.d: ../main.c
+main.o: ../main.c
