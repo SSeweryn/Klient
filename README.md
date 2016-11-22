@@ -1,1 +1,1 @@
-# Projekt-C-client
+# Projekt PJC2 - KLIENT
