@@ -34,7 +34,7 @@ Klient: $(OBJS) $(USER_OBJS)
 
 # Other Targets
 clean:
-	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) Klient
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) Klient
 	-@echo ' '
 
 .PHONY: all clean dependents
